@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "QUEEN_BHAD-DC",
+        "value": "Lil Markos",
         "required": true
       },
   
@@ -40,12 +40,12 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "QUEEN_BHAD-DC"
+        "value": "MARKOS"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Lagos"
+        "value": "Africa/Kampala"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2348140825959"
+        "value": "256759329821"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -115,7 +115,7 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "QUEEN_BHAD-DC",
+        "value": "Markos",
         "required": false
       },
       "PACK_AUTHER": {
